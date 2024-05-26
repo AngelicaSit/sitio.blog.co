@@ -1,1 +1,74 @@
-
+</html><!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gilberto Santa Rosa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .main {
+            margin-top: 20px;
+            padding: 20px;
+            background: #fff;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        img {
+            max-width: 100%;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Gilberto Santa Rosa</h1>
+        </div>
+    </header>
+    <div class="container main">
+        <h2>Biografía de Gilberto Santa Rosa</h2>
+        <p>Gilberto Santa Rosa, conocido como "El Caballero de la Salsa", es uno de los artistas más prominentes del género de la salsa. Nació el 21 de agosto de 1962 en Carolina, Puerto Rico. Su carrera musical comenzó a una edad temprana y rápidamente se convirtió en una figura destacada en la música latina.</p>
+        <img src="img.jpg" alt="Gilberto Santa Rosa en concierto">
+        <h2>Trayectoria Musical</h2>
+        <p>Santa Rosa ha lanzado numerosos álbumes a lo largo de su carrera, ganando varios premios y reconocimientos. Algunos de sus álbumes más famosos incluyen <em>“Perspectiva”</em>, <em>“Viceversa”</em> y <em>“Irrepetible”</em>. Su estilo único y su habilidad para combinar la salsa tradicional con elementos modernos lo han mantenido relevante en la industria musical.</p>
+        <video controls width="500">
+        <source src="video.mp4" type="video/mp4" >
+        </video>
+        <h2>Logros y Premios</h2>
+        <p>Gilberto Santa Rosa ha sido galardonado con múltiples premios Grammy Latinos y Billboard de la Música Latina. Su capacidad para atraer a audiencias de todo el mundo ha solidificado su estatus como uno de los grandes de la música salsa.</p>
+        <h2>Vida Personal</h2>
+        <p>Además de su carrera musical, Gilberto es conocido por su humildad y su compromiso con diversas causas benéficas. Ha trabajado con varias organizaciones sin fines de lucro en Puerto Rico y más allá, usando su plataforma para ayudar a los menos afortunados.</p>
+        <h2>Conclusión</h2>
+        <p>Gilberto Santa Rosa sigue siendo una fuerza dominante en el mundo de la salsa, con una carrera que abarca más de cuatro décadas. Su dedicación a su arte y su capacidad para evolucionar con el tiempo aseguran que continuará siendo una figura influyente en la música latina durante muchos años más.</p>
+    </div>
+    <footer>
+        <div class="container">
+            <p>&copy;Gilberto Santa Rosa.</p>
+        </div>
+    </footer>
+</body>
+</html>
